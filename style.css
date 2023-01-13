@@ -8,6 +8,11 @@ body {
 	background-color: #f8f8f8;
 }
 
+#root {
+	width: 60%;
+	margin: 0 auto;
+}
+
 .header {
 	display: flex;
 	background-color: #159b8c;
