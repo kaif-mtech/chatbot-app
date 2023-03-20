@@ -8,14 +8,14 @@ body {
 	background-color: #f8f8f8;
 }
 
-#root {
+/* #root {
 	width: 100vw;
-	/* margin: 0 auto;
+	margin: 0 auto;
 	position: absolute;
     bottom: 28px;
-    left: 20%; */
+    left: 20%;
 	height: 100vh;
-}
+} */
 
 .header {
 	display: flex;
